@@ -7,3 +7,5 @@
 # you should be able to go to http://<servers public ip>
 
 # and see "hello world"
+
+# Check iptables if connection refused
