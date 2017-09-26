@@ -2,6 +2,12 @@
 
 # add the public key to your git account (website)
 
-# Clone a repo (or create one) from git
+# Clone the repo that has your bash script, myscript
 
-# Update the README
+# Create a new branch
+
+# Update the README with "git-lesson1 ops-test"
+
+# Open a new pull request with the changes you want to make
+
+# Link the pull request
