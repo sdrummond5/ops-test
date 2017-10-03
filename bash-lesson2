@@ -1,7 +1,7 @@
 # Contiune working with the same script
 
-# open/edit the myscript script to accept input args
+# open/edit the myscript script to accept an argument
 
 # ex: ./myscript hello3
 
-# This should simply print what the arg was so the output would be "hello3"
+# This should simply print what the argument was so the output would be "hello3"
